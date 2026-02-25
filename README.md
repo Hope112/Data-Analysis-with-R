@@ -1,6 +1,7 @@
 # Data-Analysis-with-R
 
-A hands-on R workshop covering data analysis workflows — from importing and cleaning data to statistical testing and visualization — using a real employee promotion dataset.
+A hands-on R workshop covering data analysis workflows.
+UNCG PDS FEB 25 2026
 
 ---
 
